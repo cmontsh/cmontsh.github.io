@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#07100b"/>
+  <circle cx="1020" cy="120" r="180" fill="#a5ff7f" opacity=".12"/>
+  <circle cx="105" cy="560" r="210" fill="#b49cff" opacity=".08"/>
+  <text x="90" y="220" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#a5ff7f">AGRICULTURE • RESEARCH • AGRI-TECH</text>
+  <text x="90" y="330" font-family="Arial, sans-serif" font-size="76" font-weight="700" fill="#f1f6f2">Mthobisi Dhladhla</text>
+  <text x="90" y="400" font-family="Arial, sans-serif" font-size="34" fill="#aebfb4">Plant science. Climate resilience. Innovation for Africa.</text>
+</svg>
