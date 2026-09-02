@@ -1,6 +1,6 @@
-# Mthobisi Dhladhla — Portfolio V2
+# Mthobisi Dhladhla 
 
-A responsive one-page portfolio focused on agriculture research, plant science, climate resilience and agri-tech.
+meh
 
 ## V2 upgrades
 
